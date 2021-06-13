@@ -18,4 +18,6 @@ models in an upper level A.I course at the University of Northern British Columb
 
 ## Visualization
 
-![Confusion Matrix of Fake News Classifier]
+![Confusion Matrix of Fake News Classifier](https://raw.githubusercontent.com/Daniel-OReilly/Fake-News-Detection/master/images/Screen%20Shot%202021-06-13%20at%203.37.52%20PM.png)
+
+Confusion Matrix of Fake News Classifier
