@@ -18,3 +18,4 @@ models in an upper level A.I course at the University of Northern British Columb
 
 ## Visualization
 
+![Confusion Matrix of Fake News Classifier]
